@@ -2,7 +2,7 @@
 
 **Smart Dine** is a **mobile-first web application** that allows customers to order food in a restaurant by scanning a QR code at their table. The website is fully responsive, touch-friendly, and provides a seamless dining experience.
 
-**Let's order** :- [Order now](https://mohdsohel-07.github.io/Smart-Dine/)
+**Let's order** :- [Order now](https://mohdsoh3l.github.io/Smart-Dine/)
 
 ---
 
