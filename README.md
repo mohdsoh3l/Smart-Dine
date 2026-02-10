@@ -77,7 +77,7 @@ smart-dine/
 **Mohd Sohel**  
 - Email: zaiduroy@gmail.com  
 - GitHub: [https://github.com/mohdsoh3l](https://github.com/mohdsoh3l)  
-- Mobile: +91 97212 61025  
+- LinkedIn : [Mohd Sohel](www.linkedin.com/in/mohdsoh3l)
 
 ---
 
