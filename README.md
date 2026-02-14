@@ -75,7 +75,7 @@ smart-dine/
 ## Author
 
 **Mohd Sohel**  
-- Email: zaiduroy@gmail.com  
+- Email: [mohdsoh3l@gmail.com](mailto:mohdsoh3l@gmail.com)  
 - GitHub: [https://github.com/mohdsoh3l](https://github.com/mohdsoh3l)  
 - LinkedIn : www.linkedin.com/in/mohdsoh3l 
 
